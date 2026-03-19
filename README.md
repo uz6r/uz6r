@@ -4,7 +4,7 @@
 
 **full stack engineer** · next.js · python · go · graphql · postgresql
 
-[![Portfolio](https://img.shields.io/badge/portfolio-uz6r.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://uz6r.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-uzairzahari.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.uzairzahari.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-uzairzahari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairzahari)
 [![Medium](https://img.shields.io/badge/blog-@uz6r-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@uz6r)
 [![Email](https://img.shields.io/badge/email-aluzairzahari@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aluzairzahari@gmail.com)
@@ -16,9 +16,9 @@
 
 ### about
 
-building backend systems and workflows with a focus on scalable architecture. currently at [courtsite](https://courtsite.my) working across the full stack — from booking workflows and payment integrations to iot and e-invoicing.
+building things that bridge digital fitness data and tangible art. working on [tracepace](#side-projects) — a platform that transforms gps activity files into minimalist poster art for athletes.
 
-4 years in. still figuring things out.
+also a full stack engineer at courtsite.
 
 ---
 
@@ -78,6 +78,32 @@ building backend systems and workflows with a focus on scalable architecture. cu
 - 🤖 **cloudflare turnstile** to kill bot abuse on bookings
 - 🍓 full stack with **next.js + typescript** on frontend, **python + graphql strawberry + sqlalchemy** on backend
 - 🥧 **raspberry pi iot** — automated venue lighting based on booking schedules
+
+---
+
+### side projects
+
+#### TracePace ⚡
+
+> momentum turned into modern art.
+
+gps activity visualization platform that transforms `.fit` and `.gpx` files into minimalist, gallery-quality poster art for athletes. built with **go + next.js** monorepo.
+
+![TracePace Preview](tracepace/public/preview.png)
+
+```text
+status    : public beta incoming
+version   : v0.5.0-alpha
+tech      : golang · graphql · next.js · framer-motion
+features  : rdp path simplification · elevation charts · weather integration
+```
+
+- parses fit/gpx with custom go binary parser
+- ramer-douglas-peucker algorithm for clean vector traces
+- multiple poster themes (world marathon majors + local races)
+- high-res png export (3:4, 1:1, 16:9 aspect ratios)
+
+> repo is private & invitational. hit me up if you're interested in collaborating.
 
 ---
 
