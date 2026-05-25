@@ -21,7 +21,10 @@ Refresh the GitHub profile README from a stale historical artifact into an authe
   3. TracePace section reads "launched" / "v1.0.0" and includes tracepace.app link
   4. Blog posts list shows "i train in blocks, i build the same way" and no longer shows "playing the long game"
   5. Emergency Reschedule Request appears in things shipped with context (what it does, impact)
-**Plans**: TBD
+**Plans**: 1 plan
+
+Plans:
+- [ ] 01-01-PLAN.md — Apply all 5 content refreshes: about, currently, TracePace, blog posts, things shipped
 
 ### Phase 2: Polish & Differentiation
 **Goal**: Profile stands out in a 30-second recruiter scan with dynamic stats, visual structure, and a clear next step for visitors
@@ -42,5 +45,5 @@ Phases execute in numeric order: 1 → 2
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Content Refresh | 0/TBD | Not started | - |
+| 1. Content Refresh | 0/1 | Not started | - |
 | 2. Polish & Differentiation | 0/TBD | Not started | - |
