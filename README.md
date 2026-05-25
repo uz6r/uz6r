@@ -22,6 +22,17 @@ between roles, soon joining one of malaysia's leading digital banks as a full st
 
 ---
 
+<div align="center">
+  <img alt="GitHub Stats" src="./profile/stats.svg" />
+  <img alt="Top Languages" src="./profile/top-langs.svg" />
+</div>
+
+<div align="center">
+  <img alt="GitHub Streak" src="./profile/streak.svg" />
+</div>
+
+---
+
 ### stack
 
 **languages**
@@ -69,7 +80,7 @@ between roles, soon joining one of malaysia's leading digital banks as a full st
 
 ---
 
-### things i've shipped
+## things i've shipped
 
 - ⚡ scaled a sports booking platform from **97k → 700k+ users** with 50%+ performance improvement
 - 💳 payment integrations with **kiplepay** and **spay global** — error handling, retry logic, transaction monitoring
