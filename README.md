@@ -18,7 +18,7 @@
 
 building things that bridge digital fitness data and tangible art. working on [tracepace](#side-projects) — a platform that transforms gps activity files into minimalist poster art for athletes.
 
-also a full stack engineer at courtsite.
+between roles, soon joining one of malaysia's leading digital banks as a full stack engineer.
 
 ---
 
@@ -78,6 +78,7 @@ also a full stack engineer at courtsite.
 - 🤖 **cloudflare turnstile** to kill bot abuse on bookings
 - 🍓 full stack with **next.js + typescript** on frontend, **python + graphql strawberry + sqlalchemy** on backend
 - 🥧 **raspberry pi iot** — automated venue lighting based on booking schedules
+- 📋 **emergency reschedule requests** — structured workflow when self-service is unavailable, with partner centre review and email notifications
 
 ---
 
@@ -92,9 +93,10 @@ gps activity visualization platform that transforms `.fit` and `.gpx` files into
 ![TracePace Preview](tracepace/public/preview.png)
 
 ```text
-status    : public beta incoming
-version   : v0.5.0-alpha
-tech      : golang · graphql · next.js · framer-motion
+    status    : launched
+    version   : v1.0.0
+    url       : [tracepace.app](https://tracepace.app)
+    tech      : golang · graphql · next.js · framer-motion
 features  : rdp path simplification · elevation charts · weather integration
 ```
 
@@ -111,19 +113,18 @@ features  : rdp path simplification · elevation charts · weather integration
 
 i write on medium about engineering, careers, and working in tech. occasionally about training too — distance running, lifting, hyrox. trying to get better at both, not just one.
 
+- [i train in blocks, i build the same way](https://medium.com/@uz6r/i-train-in-blocks-i-build-the-same-way-e1c496e0863b) · 2026
 - [i don't know enough yet to keep it simple](https://medium.com/@uz6r/i-dont-know-enough-yet-to-keep-it-simple-d9b650dd08a6) · jan 2026
-- [playing the long game in a sprint-obsessed industry](https://medium.com/@uz6r/playing-the-long-game-in-a-sprint-obsessed-industry-17e37bbf20b1) · nov 2025
 
 ---
 
 ### currently
 
 ```
-location  : petaling jaya, malaysia
-role      : software engineer, full stack @ courtsite
-exploring : systems design, distributed workflows, iot
-training  : marathons, lifting, working towards hyrox
-open to   : interesting problems
+    location  : petaling jaya, malaysia
+    role      : software engineer (incoming) @ digital bank
+    exploring : systems design, distributed workflows, iot
+    training  : marathons, lifting, working towards hyrox
 ```
 
 ---
