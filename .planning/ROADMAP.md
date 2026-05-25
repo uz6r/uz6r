@@ -35,8 +35,10 @@ Plans:
   2. Things shipped section has visual emphasis (distinctive header treatment or formatting)
   3. README ends with a closing call-to-action giving visitors a direction (e.g. reach out, view portfolio)
   4. All Phase 1 content changes remain intact and accurate after Phase 2 edits
-**Plans**: TBD
-**UI hint**: yes
+**Plans**: 1 plan
+
+Plans:
+- [ ] 02-01-PLAN.md — Create stats workflow, embed stats cards in README, promote shipped-work heading
 
 ## Progress
 
@@ -46,4 +48,4 @@ Phases execute in numeric order: 1 → 2
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Content Refresh | 0/1 | Not started | - |
-| 2. Polish & Differentiation | 0/TBD | Not started | - |
+| 2. Polish & Differentiation | 0/1 | Not started | - |
