@@ -8,34 +8,63 @@ GitHub profile README for uzair zahari — a full stack engineer showcasing thei
 
 Present an authentic, up-to-date snapshot of who I am, what I build, and what I care about as an engineer.
 
+## Current State
+
+**v1.0.0 — Shipped 2026-05-26**
+
+The profile README has been fully refreshed:
+- About section reflects digital bank transition with no courtsite references
+- Currently section shows incoming software engineer role, "open to" removed
+- TracePace promoted from beta to launched (v1.0.0) with tracepace.app URL
+- Blog posts updated with current article, old post removed
+- Emergency Reschedule Request added to shipped work
+- GitHub stats cards embedded after About section (stats, languages, streak)
+- Shipped-work heading promoted for visual emphasis
+- Closing tagline retained as implicit CTA
+
 ## Requirements
 
 ### Validated
 
-(None yet — ship to validate)
+- ✓ **About section** — transition statement: "between roles, soon joining one of malaysia's leading digital banks" — v1.0.0
+- ✓ **Currently section** — "software engineer (incoming) @ digital bank", "open to" removed — v1.0.0
+- ✓ **TracePace** — launched, v1.0.0, tracepace.app URL, repo note preserved — v1.0.0
+- ✓ **Blog posts** — "i train in blocks" added, "playing the long game" removed — v1.0.0
+- ✓ **Emergency Reschedule Request** — added to shipped work — v1.0.0
+- ✓ **GitHub stats cards** — 3-card embed (stats, languages, streak) via GH Actions — v1.0.0
+- ✓ **Shipped heading** — promoted from `###` to `##` — v1.0.0
+- ✓ **Closing CTA** — existing tagline serves as implicit call-to-action — v1.0.0
 
 ### Active
 
-- [ ] Update About section: left courtsite, now at a leading Malaysian digital bank/fintech
-- [ ] Update Currently section: software engineer @ digital bank, remove "open to" line
-- [ ] Add Emergency Reschedule Request to things shipped
-- [ ] Update TracePace: launched (no beta), v1.0.0, add tracepace.app link
-- [ ] Update blog posts: remove "playing the long game", add "i train in blocks, i build the same way"
+(None — all v1 requirements shipped)
+
+### Next Milestone Goals
+
+- **AUTO-01**: Automate blog posts via Medium RSS + GitHub Actions
+- **AUTO-02**: Automate stats card regeneration via GitHub Actions
 
 ### Out of Scope
 
-- Stack/skills section — stays unchanged
-- TracePace "repo is private" note — stays as-is
-- Location — unchanged (still Petaling Jaya)
-- Interests (exploring/training) — unchanged
+| Feature | Reason |
+|---------|--------|
+| Visitor counters | Anti-pattern per 2026 recruiter consensus |
+| Animated snake / typing SVGs | Flashy gimmicks inconsistent with profile voice |
+| Stack overhaul | Current stack section is accurate and well-organized |
+| Named employer | Privacy preference — keep digital bank description generic |
 
 ## Context
 
-This README was last written while at courtsite. Since then:
+Shipped v1.0.0 with 293 lines added to deliverable files across 2 phases.
+Tech stack: Markdown, YAML (GitHub Actions), github-readme-stats.
+This README was refreshed from a stale courtsite-era artifact.
+
+Since initialization:
 - Left courtsite for a role at one of Malaysia's most recognized digital banking/fintech companies
-- Shipped Emergency Reschedule Request feature for Courtsite (structured workflow when self-service reschedule is unavailable, with Partner Centre review, approval/denial/expiry states, and automated email notifications)
+- Shipped Emergency Reschedule Request feature for courtsite
 - TracePace launched publicly at v1.0.0
-- Published a new Medium article on training philosophy: "i train in blocks, i build the same way"
+- Published new Medium article: "i train in blocks, i build the same way"
+- Created GitHub Actions workflow for daily stats card regeneration
 
 ## Constraints
 
@@ -47,9 +76,13 @@ This README was last written while at courtsite. Since then:
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| Keep employer vague | Privacy preference — signal the industry without naming the company | — Pending |
-| Keep TracePace repo note | Repo remains private/invitational | — Pending |
-| Remove "open to" line | No longer needed in current section | — Pending |
+| Keep employer vague | Privacy preference — signal the industry without naming the company | ✓ Good |
+| Keep TracePace repo note | Repo remains private/invitational | ✓ Good |
+| Remove "open to" line | No longer needed in current section | ✓ Good |
+| Use GH Actions for stats (not Vercel) | More reliable; no external service dependency | ✓ Good |
+| Dark theme on all cards | Consistent with profile visual style | ✓ Good |
+| Tagline serves as implicit CTA | No new link needed | ✓ Good |
 
 ---
-*Last updated: 2026-05-25 after initialization*
+
+*Last updated: 2026-05-26 after v1.0.0 milestone*
