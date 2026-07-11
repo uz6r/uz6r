@@ -1,0 +1,73 @@
+
+      <svg
+        width="300"
+        height="150"
+        viewBox="0 0 300 150"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+      >
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #fff;
+          }
+          .item {
+            font: 400 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+            fill: #9f9f9f;
+          }
+          .icon {
+            fill: #79ff97;
+          }
+          .stagger {
+            opacity: 0;
+            animation: fadeInAnimation 0.3s ease-in-out forwards;
+          }
+          @keyframes fadeInAnimation {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+        </style>
+
+        <rect
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="299"
+          fill="#151515"
+          stroke-opacity="1"
+        />
+
+        <g transform="translate(25, 35)">
+          <text x="0" y="0" class="header">tools & platforms</text>
+        </g>
+
+        <g transform="translate(0, 55)">
+          <g transform="translate(25, 0)">
+            <g class="stagger" style="animation-delay: 450ms">
+              <circle cx="5" cy="6" r="4" fill="#632ca6" />
+              <text x="15" y="10" class="item">datadog</text>
+            </g>
+          </g>
+          <g transform="translate(25, 25)">
+            <g class="stagger" style="animation-delay: 500ms">
+              <circle cx="5" cy="6" r="4" fill="#4c6ef5" />
+              <text x="15" y="10" class="item">appian</text>
+            </g>
+          </g>
+          <g transform="translate(25, 50)">
+            <g class="stagger" style="animation-delay: 550ms">
+              <circle cx="5" cy="6" r="4" fill="#ff9900" />
+              <text x="15" y="10" class="item">ses</text>
+            </g>
+          </g>
+          <g transform="translate(25, 75)">
+            <g class="stagger" style="animation-delay: 600ms">
+              <circle cx="5" cy="6" r="4" fill="#f05032" />
+              <text x="15" y="10" class="item">git</text>
+            </g>
+          </g>
+        </g>
+      </svg>
