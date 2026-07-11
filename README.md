@@ -35,13 +35,6 @@ Based in Petaling Jaya. Drop a message anytime.
   <img alt="GitHub Streak" src="./profile/streak.svg" />
 </div>
 
-<div align="center">
-  <img alt="Languages & Frameworks" src="./profile/stack-langs.svg" />
-  <img alt="Data & Infrastructure" src="./profile/stack-data.svg" />
-  <img alt="Tools & Platforms" src="./profile/stack-tools.svg" />
-  <img alt="Disciplines" src="./profile/stack-concepts.svg" />
-</div>
-
 ---
 
 ### stack
@@ -73,6 +66,9 @@ Based in Petaling Jaya. Drop a message anytime.
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Temporal](https://img.shields.io/badge/temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -83,6 +79,13 @@ Based in Petaling Jaya. Drop a message anytime.
 ![JWT](https://img.shields.io/badge/jwt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/oauth-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+**platforms & tools**
+
+![Appian](https://img.shields.io/badge/appian-232F3E?style=flat-square&logo=appian&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/amazon%20ses-FF9900?style=flat-square&logo=amazonses&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **testing**
 
