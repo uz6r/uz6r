@@ -16,13 +16,13 @@
 
 ### about
 
-Full stack engineer with 4 years of production experience building systems that scale and survive real-world load. My stack is Next.js, TypeScript, Python, Go, GraphQL, PostgreSQL, and Temporal.
+full stack engineer with 4 years of production experience building systems that scale and survive real-world load. my stack is next.js, typescript, python, go, graphql, postgresql, and temporal.
 
-I've built and scaled high-traffic web platforms across frontend architecture, backend services, distributed workflows, and infrastructure — now doing it at GX Bank, Malaysia's first and leading digital bank.
+i've built and scaled high-traffic web platforms across frontend architecture, backend services, distributed workflows, and infrastructure — now doing it at gx bank, malaysia's first and leading digital bank.
 
-Marathoner. TracePace turns .fit and .gpx run files into exportable posters. F1 fan, sim racer, cinephile — I believe the best engineers are never really off the clock.
+marathoner. tracepace turns .fit and .gpx run files into exportable posters. f1 fan, sim racer, cinephile — i believe the best engineers are never really off the clock.
 
-Based in Petaling Jaya. Drop a message anytime.
+based in petaling jaya. drop a message anytime.
 
 ---
 
@@ -66,26 +66,26 @@ Based in Petaling Jaya. Drop a message anytime.
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Temporal](https://img.shields.io/badge/temporal-000000?style=flat-square&logo=temporal&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![apache kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![amazon s3](https://img.shields.io/badge/amazon%20s3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![temporal](https://img.shields.io/badge/temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![github actions](https://img.shields.io/badge/github_actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **auth & observability**
 
-![JWT](https://img.shields.io/badge/jwt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/oauth-4285F4?style=flat-square&logo=google&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![jwt](https://img.shields.io/badge/jwt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![oauth](https://img.shields.io/badge/oauth-4285F4?style=flat-square&logo=google&logoColor=white)
+![sentry](https://img.shields.io/badge/sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 **platforms & tools**
 
-![Appian](https://img.shields.io/badge/appian-232F3E?style=flat-square&logo=appian&logoColor=white)
-![Amazon SES](https://img.shields.io/badge/amazon%20ses-FF9900?style=flat-square&logo=amazonses&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![appian](https://img.shields.io/badge/appian-232F3E?style=flat-square&logo=appian&logoColor=white)
+![amazon ses](https://img.shields.io/badge/amazon%20ses-FF9900?style=flat-square&logo=amazonses&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **testing**
 
