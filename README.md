@@ -16,9 +16,13 @@
 
 ### about
 
-building things that bridge digital fitness data and tangible art. working on [tracepace](#side-projects) — a platform that transforms gps activity files into minimalist poster art for athletes.
+Full stack engineer with 4 years of production experience building systems that scale and survive real-world load. My stack is Next.js, TypeScript, Python, Go, GraphQL, PostgreSQL, and Temporal.
 
-between roles, soon joining one of malaysia's leading digital banks as a full stack engineer.
+I've built and scaled high-traffic web platforms across frontend architecture, backend services, distributed workflows, and infrastructure — now doing it at GX Bank, Malaysia's first and leading digital bank.
+
+Marathoner. TracePace turns .fit and .gpx run files into exportable posters. F1 fan, sim racer, cinephile — I believe the best engineers are never really off the clock.
+
+Based in Petaling Jaya. Drop a message anytime.
 
 ---
 
@@ -93,6 +97,32 @@ between roles, soon joining one of malaysia's leading digital banks as a full st
 
 ---
 
+### career
+
+#### GXBank — Software Engineer, Fullstack
+*Jun 2026 – Present*
+
+Contracted via MyValiant. GXBank is Malaysia's first and leading digital bank, backed by Grab and Singtel.
+
+- Contributing to the internal operations applications supporting regional banking workflows across ASEAN.
+- Delivering incremental improvements to operational tooling for the Operations team, supporting day-to-day banking processes.
+
+#### Courtsite — Software Engineer
+*Apr 2023 – May 2026*
+
+Courtsite is a leading Progressive Web App in Malaysia that enables users to effortlessly search and book spaces for various sports. As a B2B2C aggregator platform, we foster a community of players and actively promote social games to elevate the overall playing experience.
+
+- Architected and maintained full-stack features utilizing TypeScript-driven Next.js frontend and Python backend infrastructure with GraphQL (Strawberry), SQLAlchemy, and PostgreSQL.
+- Spearheaded development of the flagship "Book" feature, empowering users to seamlessly discover and reserve venues through intelligent real-time filtering across time slots, locations and sport categories.
+- Engineered robust third-party payment integrations with KiplePay and SPay Global, implementing sophisticated error handling, retry mechanisms, and comprehensive transaction monitoring for seamless operations.
+- Developed high-performance backend services in Go for mission-critical booking workflows encompassing checkout processes, dynamic rescheduling and external API integrations, leveraging Temporal for workflow orchestration.
+- Implemented Cloudflare Turnstile security integration to combat automated booking exploitation, significantly reducing fraudulent bot activity and protecting platform integrity.
+- Drove platform scalability initiatives supporting explosive user growth from 97,000 to 800,000+ users, delivering strategic backend optimizations and UX enhancements that accelerated performance by over 50%.
+- Implemented MyLHDN e-Invois API integration to streamline automated generation of tax-compliant invoices for B2B2C operator partnerships.
+- Led technical mentorship and developer onboarding programs through comprehensive code reviews, system architecture walkthroughs and documentation standardization.
+
+---
+
 ### side projects
 
 #### TracePace ⚡
@@ -133,7 +163,7 @@ i write on medium about engineering, careers, and working in tech. occasionally 
 
 ```
     location  : petaling jaya, malaysia
-    role      : software engineer (incoming) @ digital bank
+    role      : software engineer, fullstack @ gxb
     exploring : systems design, distributed workflows, iot
     training  : marathons, lifting, working towards hyrox
 ```
